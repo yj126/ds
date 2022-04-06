@@ -27,8 +27,7 @@ c6,https://api.apilyzy.com/api.php/provide/vod/at/xml,解析
 c7,http://lbapiby.com/api.php/provide/vod/at/xml/,解析
 c8,https://lbapi9.com/api.php/provide/vod/at/xml/,解析
 c9,https://dadiapi.com/sea_api.php,解析
-水密陶无xml,http://51smt4.xyz/api.php/provide/vod/,解析
-水密陶加xml,http://51smt4.xyz/api.php/provide/vod/at/xml/,解析
+水密陶加xml,http://51smt4.xyz/api.php/provide/vod/at/xml/,不解析
 人人资源,https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/,解析
 八戒云,http://cj.bajiecaiji.com/inc/bjm3u8.php,解析
 天空云,https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/,解析
