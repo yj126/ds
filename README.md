@@ -2,10 +2,9 @@
 <h3 align="center">一个90后小伙！</h3>
 
 Here are some ideas to get you started:
-- 📝 I regularly write articles on [blog](http://www.l13144.club:10003/)
-
+- 📝 I regularly write articles on [blog](https://halo.xyifx.cn/)
 - 📫 How to reach me **1556818269@qq.com**
-
+- 🏬 Welcome to my shop [跑得快](http://pdk.uvgg.com/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
