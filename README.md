@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm XiaoYu</h1>
-<h3 align="center">一个90后小伙！</h3>
+<h2 align="center">Hi 👋, I'm XiaoYu</h2>
 
 Here are some ideas to get you started:
 - 📝 I regularly write articles on [blog](https://halo.xyifx.cn/)
