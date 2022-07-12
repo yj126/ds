@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm XiaoYu</h2>
 
 Here are some ideas to get you started:
-- 📝 I regularly write articles on [blog](https://halo.xyifx.cn/)
+- 📝 I regularly write articles on [blog](https://halo.xyifx.cn/).
 - 📫 You can email **1556818269@qq.com** to contact me.
-- 🏪 Welcome to my shop [pao de kuai](http://pdk.uvgg.com/)   
+- 🏪 Welcome to my shop [pao de kuai](http://pdk.uvgg.com/).   
 - 🎬 Welcome to [little fish Cinema](http://pdk.uvgg.com/),though there are fewer films. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
