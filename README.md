@@ -2,8 +2,9 @@
 
 Here are some ideas to get you started:
 - 📝 I regularly write articles on [blog](https://halo.xyifx.cn/)
-- 📫 How to reach me **1556818269@qq.com**
-- 🏬 Welcome to my shop [跑得快](http://pdk.uvgg.com/)
+- 📫 You can email **1556818269@qq.com** to contact me.
+- 🏪 Welcome to my shop [pao de kuai](http://pdk.uvgg.com/)   
+- 🎬 Welcome to [little fish Cinema](http://pdk.uvgg.com/),though there are fewer films. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
