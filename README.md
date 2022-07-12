@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-    <!--一言API-->
-    <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yj126&repo=github-readme-stats&theme=vue)](https://github.com/yj126/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj126&show_icons=true&theme=vue)
 
