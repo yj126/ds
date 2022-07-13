@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yj126&repo=github-readme-stats&theme=vue)](https://github.com/yj126/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj126&show_icons=true&theme=vue)
- <iframe src="https://chatroomonreplit.yj126.repl.co/room/@text"  width=100% height="400"></iframe>
+ <iframe src="https://chatroomonreplit.yj126.repl.co/room/@text"  width=100% height="300"></iframe>
 
 
 
